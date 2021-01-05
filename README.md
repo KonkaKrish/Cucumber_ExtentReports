@@ -8,10 +8,11 @@ Cucumber Framework with Extent report for RestAssured Project with data driven
 5. Reads the data from config file
 
 Required Softwares & Jars
->> Java JDK 1.8.0_171
->> TestNG
->> RestAssured
->> Cucumber
->> Extents
->> JSon
+>> Java JDK 1.8.0_171 |
+>> TestNG |
+>> RestAssured |
+>> Cucumber |
+>> Extents |
+>> Json-simple |
+>> Eclipse
 
